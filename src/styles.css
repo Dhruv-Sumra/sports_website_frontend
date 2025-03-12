@@ -1,0 +1,16 @@
+@import "tailwindcss";
+@plugin 'tailwind-scrollbar';
+
+.active{
+    @apply text-red-500 border-b-2;
+}
+
+.scrollbar-custom::-webkit-scrollbar-thumb {
+    @apply bg-gray-400 rounded-full;
+  }
+
+.grid-custom{
+    @apply grid grid-cols-2 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 xl:grid-cols-5 gap-5
+}
+
+  

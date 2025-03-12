@@ -1,0 +1,371 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "title": "Football",
+      "img": "src/imgs/c1.png"
+    },
+    {
+      "id": 2,
+      "title": "Cricket",
+      "img": "src/imgs/c2.png"
+    },
+    {
+      "id": 3,
+      "title": "Boxing",
+      "img": "src/imgs/c3.png"
+    },
+    {
+      "id": 4,
+      "title": "Hockey",
+      "img": "src/imgs/c4.png"
+    },
+    {
+      "id": 5,
+      "title": "Tennis",
+      "img": "src/imgs/c5.png"
+    },
+    {
+      "id": 6,
+      "title": "Rugby",
+      "img": "src/imgs/c6.png"
+    },
+    {
+      "id": 7,
+      "title": "Basketball",
+      "img": "src/imgs/c7.png"
+    },
+    {
+      "id": 8,
+      "title": "Soccer",
+      "img": "src/imgs/c8.png"
+    },
+    {
+      "id": 9,
+      "title": "Baseball",
+      "img": "src/imgs/c9.png"
+    },
+    {
+      "id": 10,
+      "title": "Golf",
+      "img": "src/imgs/c10.png"
+    },
+    {
+      "id": 11,
+      "title": "Swimming",
+      "img": "src/imgs/c11.png"
+    },
+    {
+      "id": 12,
+      "title": "Athletics",
+      "img": "src/imgs/c12.png"
+    },
+    {
+      "id": 13,
+      "title": "Badminton",
+      "img": "src/imgs/c13.png"
+    },
+    {
+      "id": 14,
+      "title": "Squash",
+      "img": "src/imgs/c14.png"
+    },
+    {
+      "id": 15,
+      "title": "Serfing",
+      "img": "src/imgs/c15.png"
+    },
+    {
+      "id": 16,
+      "title": "Sailing",
+      "img": "src/imgs/c16.png"
+    },
+    {
+      "id": 17,
+      "title": "UFC",
+      "img": "src/imgs/c17.png"
+    },
+    {
+      "id": 18,
+      "title": "Wrestling",
+      "img": "src/imgs/c18.png"
+    }
+  ],
+
+  "players": [
+    {
+      "football": [
+        {
+          "id": 21,
+          "title": "Sunil chhetri",
+          "info": "",
+          "img": "src/imgs/f1.png",
+          "age": 40,
+          "country": "India",
+          "position": "Fordward"
+        },
+        {
+          "id": 22,
+          "title": "Cristiano Ronaldo",
+          "info": "",
+          "img": "src/imgs/f2.jpg",
+          "age": 40,
+          "country": "Portugal",
+          "position": "Fordward    "
+        },
+        {
+          "id": 21,
+          "title": "Lionel Messi",
+          "info": "",
+          "img": "src/imgs/f3.jpg",
+          "age": 37,
+          "country": "Argentina",
+          "position": "Fordward"
+        },
+        {
+          "id": 21,
+          "title": "Neymar Jr.",
+          "info": "",
+          "img": "src/imgs/f4.jpg",
+          "age": 33,
+          "country": "Brazil",
+          "position": "Fordward"
+        },
+        {
+          "id": 21,
+          "title": "Kylian Mbappé",
+          "info": "",
+          "img": "src/imgs/f5.jpg",
+          "age": 26,
+          "country": "France",
+          "position": "Fordward"
+        }
+      ]
+    },
+
+    {
+      "cricket": [
+        {
+          "id": 22,
+          "title": "Virat Kohli",
+          "info": "",
+          "img": "src/imgs/cr1.jpg",
+          "age": 36,
+          "country": "India",
+          "position": "Batter"
+        },
+        {
+          "id": 23,
+          "title": "MS Dhoni",
+          "info": "",
+          "img": "src/imgs/cr2.jpg",
+          "age": 43,
+          "country": "India",
+          "position": "Keeper/Batter    "
+        },
+        {
+          "id": 24,
+          "title": "Sachin Tendulkar",
+          "info": "",
+          "img": "src/imgs/cr3.jpg",
+          "age": 51,
+          "country": "India",
+          "position": "Batter"
+        },
+        {
+          "id": 25,
+          "title": "Rohit Sharma",
+          "info": "",
+          "img": "src/imgs/cr4.jpg",
+          "age": 37,
+          "country": "India",
+          "position": "Batter"
+        },
+        {
+          "id": 26,
+          "title": "Hardik Pandya",
+          "info": "",
+          "img": "src/imgs/cr5.jpg",
+          "age": 31,
+          "country": "India",
+          "position": "All-Rounder"
+        }
+      ]
+    },
+    {
+      "Boxing": [
+        {
+          "id": 32,
+          "title": "Muhammad Ali",
+          "info": "",
+          "img": "src/imgs/bx1.jpg",
+          "age": "76-(2016)",
+          "country": "United-states",
+          "position": "Boxer"
+        },
+        {
+          "id": 33,
+          "title": "Mike Tyson",
+          "info": "",
+          "img": "src/imgs/bx2.jpg",
+          "age": 58,
+          "country": "United-states",
+          "position": "Boxer"
+        },
+        {
+          "id": 34,
+          "title": "Floyd Mayweather Jr",
+          "info": "",
+          "img": "src/imgs/bx3.jpg",
+          "age": 48,
+          "country": "United-states",
+          "position": "Boxer"
+        },
+        {
+          "id": 35,
+          "title": "George Foreman",
+          "info": "",
+          "img": "src/imgs/bx4.jpg",
+          "age": 76,
+          "country": "United-states",
+          "position": "Boxer"
+        },
+        {
+          "id": 36,
+          "title": "Roberto Durán",
+          "info": "",
+          "img": "src/imgs/bx5.jpg",
+          "age": 73,
+          "country": "Panama",
+          "position": "Boxer"
+        }
+      ]
+    },
+    {
+      "UFC": [
+        {
+          "id": 37,
+          "title": "Jon Jones",
+          "info": "",
+          "img": "src/imgs/u1.jpg",
+          "age": 37,
+          "country": "United-states",
+          "position": "Heavyweight Champion"
+        },
+        {
+          "id": 38,
+          "title": "Khabib Nurmagomedov",
+          "info": "",
+          "img": "src/imgs/u2.jpg",
+          "age": 36,
+          "country": "Russia",
+          "position": "undefeated"
+        },
+        {
+          "id": 39,
+          "title": "Conor McGregor",
+          "info": "",
+          "img": "src/imgs/u3.jpg",
+          "age": 36,
+          "country": "Ireland",
+          "position": "Lightweight division"
+        },
+        {
+          "id": 40,
+          "title": "Israel Adesanya",
+          "info": "",
+          "img": "src/imgs/u4.jpg",
+          "age": 35,
+          "country": "Nigeria",
+          "position": "Middleweight division"
+        },
+        {
+          "id": 41,
+          "title": "Anderson Silva",
+          "info": "",
+          "img": "src/imgs/u5.jpg",
+          "age": 49,
+          "country": "Brazil",
+          "position": "mixed martial artist"
+        }
+      ]
+    }
+  ],
+
+  "news": [
+    {
+      "big_news":[
+        {
+          "id":101,
+          "title":"India reaches Champions Trophy final",
+          "info":"India defeated New Zealand by 44 runs in the ICC Champions Trophy 2025, thanks to Varun Chakravarthy's maiden five-wicket haul. India will face Australia in the semi-final",
+          "img":"src/imgs/nws1.jpg"
+        },
+        {
+          "id":102,
+          "title":"Saquon Barkley becomes highest-paid running back",
+          "info":"Saquon Barkley has signed a new extension with the Philadelphia Eagles, making him the highest-paid running back in NFL history",
+          "img":"src/imgs/nws2.jpg"
+        },
+        {
+          "id":103,
+          "title":"Arsenal breaks Champions League record",
+          "info":"Arsenal delivered a stunning performance, scoring seven goals against PSV in the Champions League, setting a new record",
+          "img":"src/imgs/nws3.jpg"
+        }
+      ]
+    },
+    {
+      "small_news":[
+        {
+          "id":104,
+          "title":"India's Women's Hockey Team Wins Asian Champions Trophy",
+          "info":"India's women's hockey team clinched their third Asian Champions Trophy honor.",
+          "img":"src/imgs/sn1.jpg"
+        },
+        {
+          "id":105,
+          "title":"India Bids to Host 2036 Olympics",
+          "info":"India officially bids to host the 2036 Olympics and Paralympics.",
+          "img":"src/imgs/sn2.jpg"
+        },
+        {
+          "id":106,
+          "title":"Rafael Nadal Retires",
+          "info":"Rafael Nadal confirms his retirement, with Roger Federer and Cristiano Ronaldo leading the wishes.",
+          "img":"src/imgs/sn3.jpg"
+        },
+        {
+          "id":107,
+          "title":"India Tops World Test Championship Standings",
+          "info":"India solidifies their top position in the World Test Championship standings.",
+          "img":"src/imgs/sn4.jpg"
+        },
+        {
+          "id":108,
+          "title":"Virat Kohli's Tribute to Shikhar Dhawan",
+          "info":"Virat Kohli pens an emotional tribute for Shikhar Dhawan's retirement.",
+          "img":"src/imgs/sn5.webp"
+        },
+        {
+          "id":109,
+          "title":"Hardik Pandya and Natasa Stankovic Split",
+          "info":"Hardik Pandya's flamboyant personality reportedly led to his split with Natasa Stankovic.",
+          "img":"src/imgs/sn6.jpg"
+        },
+        {
+          "id":110,
+          "title":"Archana Kamath Retires from Table Tennis",
+          "info":"Paris Olympics star Archana Kamath retires from professional table tennis.",
+          "img":"src/imgs/sn7.jpg"
+        },
+        {
+          "id":111,
+          "title":"India Announces Largest Paralympic Squad",
+          "info":"India announces its largest-ever Paralympic squad for Paris 2024.",
+          "img":"src/imgs/sn8.jpg"
+        }
+      ]
+    }
+  ]
+}
