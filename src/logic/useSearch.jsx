@@ -2,7 +2,8 @@ import React , {useState , useEffect} from 'react'
 import useFetch from './useFetch'
 
 const SearchLogic = () => {
-      const { categories } = useFetch();
+      const { data } = useFetch();
+      const categories = data.categories;
     
       const [items, setItems] = useState([]);
       const [query, setQuery] = useState("");

@@ -2,7 +2,8 @@ import React from "react";
 import useFetch from "../logic/useFetch";
 
 const Smallnews = () => {
-  const { news } = useFetch();
+  const { data } = useFetch();
+  const news = data.news
 
   return (
     <div className="h-150 w-full rounded-xl pl-1 space-y-2 lg:">

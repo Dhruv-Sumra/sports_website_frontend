@@ -1,8 +1,10 @@
-import React, { useState } from "react";
+import React from "react";
 import useFetch from "../logic/useFetch";
 
 const Categories = () => {
-  const { categories } = useFetch("http://localhost:8000/categories");
+  const { data } = useFetch();
+  const categories = data.categories;
+
 
   return (
     <div name="categories" className="text-red-500 px-5 sm:px-10 md:px-15 lg:px-15 py-10 bg-gray-200">

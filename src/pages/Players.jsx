@@ -2,7 +2,8 @@ import React, { useState } from "react";
 import useFetch from "../logic/useFetch";
 
 const Players = () => {
-  const { players } = useFetch();
+  const { data } = useFetch();
+  const players = data.players
 
   const [isView , setIsView] = useState(false)
   const [view , setView] = useState('view more');

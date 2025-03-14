@@ -2,7 +2,8 @@ import React, { useState } from "react";
 import useFetch from "../logic/useFetch";
 
 const Bignews = () => {
-  const { news } = useFetch();
+  const { data } = useFetch();
+  const news = data.news
   const [translate, setTranslate] = useState();
 
   const handleClickScroll = (e) => {
